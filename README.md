@@ -26,4 +26,5 @@
 + Inglés I
 
 ## Contacto
-email: pabloisraelsky@gmail.com
++ email: pabloisraelsky@gmail.com
++ Ig: [Instagram](https://www.instagram.com/pablen_israelsky/)
