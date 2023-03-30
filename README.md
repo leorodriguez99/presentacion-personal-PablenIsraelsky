@@ -2,8 +2,8 @@
 ![Yo](./assets/20220313_134624.jpg)
 <h2>Pasatiempos</h2>
 <ul>
-    <li>Programar<li>
-    <li>Praticar Taekwondo<li>
+    <li>Programar</li>
+    <li>Praticar Taekwondo</li>
     <li>Tocar la guitarra</li>
     <li>Jugar videojuegos</li>
 </ul>
